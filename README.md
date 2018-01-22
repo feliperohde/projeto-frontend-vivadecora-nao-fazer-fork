@@ -66,7 +66,7 @@ Todos acharam uma boa ideia. Os requisitos do MVP do projeto "Curadoria de filme
 * Apenas código front-end será escrito para esse projeto: html5, css e javascript.
 * Será usada a [API versão 4 de filmes do The Movies Database](https://developers.themoviedb.org/4)
 * Pré-processadores css podem ser usados à vontade.
-* O projeto deve ser uma *single page application (SPA)* escrita utilizando Angular 1.x, por exemplo, Angular 1.5.8 .
+* O projeto deve ser uma *single page application (SPA)* escrita utilizando 1.x, VueJS 2.x ou React.
 * O projeto consiste apenas em 3 telas: **Tela inicial**, **Filmes curtidos**, **Filmes não curtidos**.
 * Cada tela precisa ter uma url própria;
 * As telas devem ser responsivas;
